@@ -382,15 +382,15 @@ export default function Portfolio() {
             ></div>
             <br></br>
             <p className="dark:text-white text-gray-900">
-            Hi! I’m Habib, a Software Engineering student at the University of Dhaka who’s passionate about learning, leadership, and exploring the world beyond code.
+          Hi! I’m Habib, a Software Engineering student at the University of Dhaka with a passion for learning, leadership, and exploring beyond code.
 
-            I love traveling across Bangladesh and capturing the beauty of nature through my lens. My dream is to explore every corner of the country—and eventually, the world. Gaming is my hobby, from playing AAA titles to sports games such as FIFA to competitive games like CS and Valorant.
+I love traveling across Bangladesh, capturing nature through my lens. Gaming is my hobby—from FIFA to CS and Valorant.
 
-            Football is another big part of my life. As a striker for the IIT Football Team, I proudly contributed to winning the IIT Annual Futsal Championship 2024. The game has taught me teamwork, focus, and grit.
+As a striker for the IIT Football Team, I helped win the 2024 Futsal Championship, learning teamwork and resilience.
 
-            I’ve participated in the ISSB (89th BMA Long Course) and achieved Green Card. I have represented Moulvibazar district Red Crescent at the 30th National Youth Camp(Gazipur 2017), and serve as an executive member at IITSEC, where I help organize tech and innovation events.
+I earned an ISSB Green Card (89th BMA), represented Red Crescent at the 30th National Youth Camp, and serve as an IITSEC executive.
 
-            I believe in balancing ambition with passion—and I’m excited for what lies ahead.
+I strive to balance ambition with passion—and I’m excited for what’s ahead.
 </p>
           </div>
 
